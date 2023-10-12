@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> I'm currently learning about GitHub.
---> I need a resume to apply for co-op.
+--> My name is Daniel Jacob.
+--> I am a Computer Science and Design major.
+--> I will graduate in 2027.
